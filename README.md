@@ -1,1 +1,1 @@
-# quizz_app
+# Quizz App
